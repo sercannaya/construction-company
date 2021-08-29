@@ -1,4 +1,5 @@
 # Website Preview
+  The website was prepared for a construction company. This website has a plain appearance and consists of a single page.
 #
 # General view
 ![alt text](https://github.com/sercannaya/construction-company/blob/main/preview/preview.jpg)
